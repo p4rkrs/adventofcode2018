@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2018",
+  "version": "0.0.1",
+  "description": "My solutions for Advent of Code 2018",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dying/adventofcode2018.git"
+  },
+  "author": "kiru <me@kiru.space>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dying/adventofcode2018/issues"
+  },
+  "homepage": "https://github.com/dying/adventofcode2018#readme"
+}
